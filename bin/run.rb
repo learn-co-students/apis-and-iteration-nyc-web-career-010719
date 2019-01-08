@@ -6,3 +6,5 @@ require_relative "../lib/command_line_interface.rb"
 welcome
 character = get_character_from_user
 show_character_movies(character)
+
+#ask user whether they want to search for movie or character info
