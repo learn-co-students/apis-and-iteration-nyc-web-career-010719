@@ -10,3 +10,5 @@ show_character_movies(character)
 
 film = get_film_from_user
 show_movie_characters(film)
+
+get_character_movies_from_api("Luke Skywalker")
